@@ -49,10 +49,6 @@ O app oferece uma experiência intuitiva, com confirmação de horário, pagamen
 
 ### Frontend
 - [Flutter (Dart)](https://flutter.dev/)
-
-### Backend
-- [Node.js](https://nodejs.org/)
-
 ---
 
 ## 📊 Métricas de Sucesso
