@@ -1,13 +1,17 @@
 # 💇‍♀️ BeautyStudio
 
-**BeautyStudio** é um aplicativo mobile para agendamento de serviços em salões de beleza, focado na comodidade dos clientes e na organização dos profissionais.
-
+**BeautyStudio** é um aplicativo mobile para agendamento de unhas em estúdio, focado na comodidade dos clientes e na organização dos profissionais.
 ---
 
 ## 📱 Sobre o Projeto
 
-O **BeautyStudio** permite que usuários agendem serviços como cabelo, unhas, sobrancelha e depilação diretamente pelo celular.  
+Permite que os usuários agendem serviços de unhas, oferecendo quatro técnicas disponíveis:
+Blindagem + esmaltação em gel; 
+Banho de gel; 
+FIbra de vidro;
+Molde f1.
 O app oferece uma experiência intuitiva, com confirmação de horário, pagamento antecipado e lembretes automáticos.
+
 
 ---
 
@@ -23,7 +27,7 @@ O app oferece uma experiência intuitiva, com confirmação de horário, pagamen
 ## 🚀 Funcionalidades
 
 - Cadastro e login de clientes e profissionais
-- Escolha de serviços com cálculo de preço dinâmico (ex: tamanho do cabelo)
+- Escolha de técnica com cálculo de preço dinâmico
 - Agendamento com visualização de horários disponíveis
 - Pagamento antecipado (PIX, cartão)
 - Confirmação e lembrete do agendamento (push notifications)
@@ -47,9 +51,8 @@ O app oferece uma experiência intuitiva, com confirmação de horário, pagamen
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Frontend
-- [Flutter (Dart)](https://flutter.dev/)
----
+Ainda estamos decidindo qual será o melhor.
+
 
 ## 📊 Métricas de Sucesso
 
@@ -67,4 +70,4 @@ O app oferece uma experiência intuitiva, com confirmação de horário, pagamen
 
 ## 📌 Status do Projeto
 
-> 🚧 Iniciando...
+> 🚧 Em Andamento...
